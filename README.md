@@ -4,6 +4,10 @@
 
 Get the current PS Version Table
 
+## Install
+
+Install Get-Version from the [PowerShell Gallery](https://www.powershellgallery.com/packages/Get-Version)
+
 ## SYNTAX
 
 ```powershell
@@ -24,11 +28,7 @@ PS C:\> Get-Version
 
 This command returns the current PowerShell Version Table
 
-## PARAMETERS
-
-### None
-
-## INPUTS
+## PARAMETERS & INPUTS
 
 ### None
 
