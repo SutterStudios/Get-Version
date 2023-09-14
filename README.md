@@ -1,10 +1,3 @@
----
-external help file: Get-Version-help.xml
-Module Name: Get-Version
-online version:
-schema: 2.0.0
----
-
 # Get-Version
 
 ## SYNOPSIS

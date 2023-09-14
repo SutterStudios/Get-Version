@@ -88,7 +88,7 @@
     # ModuleList = @()
     
     # List of all files packaged with this module
-    FileList = @("Get-Version.ps1", "Get-Version.psm1", "Get-Version.psd1", "README.md", "Get-Version.md", "Get-Version-help.xml")
+    FileList = @("Get-Version.ps1", "Get-Version.psm1", "Get-Version.psd1", "README.md")
     
     # Private data to pass to the module specified in RootModule/ModuleToProcess. This may also contain a PSData hashtable with additional module metadata used by PowerShell.
     PrivateData = @{
