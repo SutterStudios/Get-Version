@@ -13,7 +13,7 @@ Get the current PS Version Table
 
 ## SYNTAX
 
-```powershell
+```text
 Get-Version
 ```
 
@@ -32,8 +32,6 @@ PS C:\> Get-Version
 This command returns the current PowerShell Version Table
 
 ## PARAMETERS
-
-### None
 
 ## INPUTS
 
